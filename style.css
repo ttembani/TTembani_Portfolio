@@ -717,7 +717,7 @@ margin-bottom: 200px;  /* Add even more space below */
 
 }
 .main-text h2{
-    padding-top: 60px;
+    padding-top: 70px;
     line-height: 1;
     text-align: center;
     font-size: 60px;
@@ -823,126 +823,6 @@ margin-bottom: 200px;  /* Add even more space below */
     font-weight: bold;
 }
 
-
-
-/* Portfolio
-.main-text{
-padding-top: 50px;     /* Reduced top padding 
-margin-top: 50px;      /* Reduced top margin 
-padding-bottom: 130px; /* Add extra space below 
-margin-bottom: 200px;  /* Add even more space below 
-
-}
-.main-text h2{
-    padding-top: 60px;
-    line-height: 1;
-    text-align: center;
-    font-size: 60px;
-    margin: 15px 0 30px;
-}
-.main-text h2 span {
-    color:#0ef;
-}
-.portfolio-content {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(359px, auto)); 
-    
-}
-
-.row{
-        position: relative;
-        overflow: hidden;
-        border-radius: 8px;
-        cursor: pointer;
-    }
-
-.row img {
-    width: 100%; 
-    border-radius: 8px;
-    display: block;
-    transition: transform 0.5s;
-    margin-top: 50px;
-}
-
-
-.layer {
-    width: 100%;
-    height: 0;
-    background: linear-gradient(rgba(0,0,0,0.1), #0ef);
-    position: absolute;
-    border-radius: 8px;
-    left: 0;
-    bottom: 0;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 0 40px;
-    transition: height 0.5s;
-}
-.layer h5{
-    color: #000;
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 15px;
-}
-.layer p{
-    .layer p {
-        font-size: 1rem;
-        color: #000;
-        line-height: 1.8;
-    }
-    
-}
-.layer i{
-    color: #ff004f;
-    margin-top: 20px;
-    font-size: 20px;
-    background: black;
-    width: 80px;
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-}
-
-.row:hover img{
-    transform:scale(1.1);
-}
-.row:hover .layer{
-    height: 100%;
-}
-
-.view-link {
-    display: inline-flex;
-    align-items: center;
-    color: black;
-    font-size: 16px;
-    text-decoration: none; /* Removes underline 
-    position: relative;
-}
-
-.view-link i {
-    font-size: 25px; /* Adjust icon size 
-    position: relative;
-}
-
-.view-link i::after {
-    content: "View"; /* Adds text inside the icon 
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 8px; /* Adjusts text size 
-    font-weight: bold;
-}
-
-
- */
-
 /*Contact*/
 .contact{
     display: grid;
@@ -1020,7 +900,7 @@ margin: 0 10px;
 
 
 .contact-form form {
-    padding-top: 60px;
+    padding-top: 70px;
     position: relative;
 }
 
@@ -1029,7 +909,7 @@ margin: 0 10px;
     border: none;
     outline: none;
     width: 20%;
-    height: 50px;
+    height: 40px;
     padding: 18px;
     background: rgba(165, 85, 85, 0.5); /* Keeps transparency */
     color: #000;
