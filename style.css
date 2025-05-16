@@ -1020,6 +1020,7 @@ margin: 0 10px;
 
 
 .contact-form form {
+    padding-top: 60px;
     position: relative;
 }
 
@@ -1039,7 +1040,7 @@ margin: 0 10px;
 
 .contact-form textarea {
     resize: none;
-    height: 220px;
+    height: 200px;
 }
 
 .contact-form form .send {
