@@ -1029,6 +1029,7 @@ margin: 0 10px;
     border: none;
     outline: none;
     width: 20%;
+    height: 50px;
     padding: 18px;
     background: rgba(165, 85, 85, 0.5); /* Keeps transparency */
     color: #000;
