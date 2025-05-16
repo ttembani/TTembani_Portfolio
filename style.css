@@ -900,7 +900,6 @@ margin: 0 10px;
 
 
 .contact-form form {
-    padding-top: 70px;
     position: relative;
 }
 
@@ -908,10 +907,9 @@ margin: 0 10px;
 .contact-form form textarea {
     border: none;
     outline: none;
-    width: 20%;
-    height: 40px;
+    width: 90%;
     padding: 18px;
-    background: rgba(165, 85, 85, 0.5); /* Keeps transparency*/ 
+    background: rgba(165, 85, 85, 0.5); /* Keeps transparency */
     color: #000;
     font-size: 1rem;
     font-weight: 600;
@@ -921,7 +919,7 @@ margin: 0 10px;
 
 .contact-form textarea {
     resize: none;
-    height: 200px;
+    height: 220px;
 }
 
 .contact-form form .send {
@@ -949,6 +947,8 @@ margin: 0 10px;
                 0 0 100px cyan, 
                 0 0 200px cyan;
 }
+
+
 
 .last-text p{
     width: 100%;
