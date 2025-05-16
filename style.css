@@ -1028,7 +1028,7 @@ margin: 0 10px;
 .contact-form form textarea {
     border: none;
     outline: none;
-    width: 50%;
+    width: 20%;
     padding: 18px;
     background: rgba(165, 85, 85, 0.5); /* Keeps transparency */
     color: #000;
